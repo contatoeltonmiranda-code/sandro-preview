@@ -1,0 +1,6 @@
+# Previa: a pagina usa meta robots noindex ate o dominio final.
+# No dominio final: remover o noindex do index.html e trocar a URL abaixo.
+User-agent: *
+Allow: /
+
+Sitemap: https://contatoeltonmiranda-code.github.io/sandro-preview/sitemap.xml

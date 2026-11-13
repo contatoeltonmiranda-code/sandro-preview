@@ -1,0 +1,23 @@
+# Prosperity Financial Academy — Curso de investimentos para iniciantes
+
+> Curso gravado e educacional, na Hotmart, para quem está começando do zero: entender como a Bolsa funciona, ler relatórios, gráficos e indicadores, usar uma plataforma de negociação e conhecer os riscos, com exemplos fictícios e no ritmo do aluno. Professor: Sandro Gonçalves. Não é recomendação de investimento. Investimentos envolvem riscos, inclusive de perda.
+
+## Página
+
+- [Página de vendas do curso](https://contatoeltonmiranda-code.github.io/sandro-preview/): público, conteúdo, programa, professor, como funciona, inscrição, garantia e perguntas frequentes.
+
+## O curso
+
+- Formato: 13 módulos e 53 aulas gravadas, ensino progressivo, exemplos com uma empresa fictícia e simulações.
+- Conteúdo: ambiente de mercado, mercado de ações, plataforma de negociação, análise fundamentalista, análise técnica, tributação introdutória, candles e simulação no MetaTrader 5.
+- Acesso por 1 ano na área de membros da Hotmart. Certificado de conclusão. Garantia de 7 dias.
+- Não exige formação na área, patrimônio mínimo nem conta em corretora.
+
+## Professor
+
+- Sandro Gonçalves: Economia (Unesp), mestrado em Matemática, Estatística e Computação (USP), MBA (Trevisan); experiência na B3 e em banco de investimento internacional; professor de finanças, inclusive em turmas de MBA. As instituições citadas não aprovam nem endossam o curso.
+
+## Avisos
+
+- Finalidade exclusivamente educacional. O curso não recomenda comprar, vender ou manter ativos e não promete ganhos.
+- Exemplos, empresas e simulações são fictícios.
