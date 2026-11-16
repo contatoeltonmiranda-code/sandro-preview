@@ -2,5 +2,6 @@
 # No dominio final: remover o noindex do index.html e trocar a URL abaixo.
 User-agent: *
 Allow: /
+Disallow: /aula-piloto/
 
 Sitemap: https://contatoeltonmiranda-code.github.io/sandro-preview/sitemap.xml
