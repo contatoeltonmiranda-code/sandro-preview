@@ -22,7 +22,7 @@
   var nav = document.getElementById("topo");
   function navSolida() { nav.classList.toggle("is-solid", window.scrollY > 40); }
 
-  /* ---------- contadores (so numeros reais da copy: 13, 53, 7, 1) */
+  /* ---------- contadores (so numeros reais da copy: 12, 49, 7, 1) */
   function conta(el) {
     var fim = parseInt(el.getAttribute("data-count"), 10);
     if (reduz || !fim || fim < 2) { el.textContent = fim; return; }
