@@ -368,7 +368,7 @@ html.js .programa__capas.rv.is-in { transform: none; }
 .modulos { margin-top: 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .mod { position: relative; display: grid; grid-template-columns: 96px 1fr; gap: 20px; align-items: start; padding: 28px; border-radius: 16px; background: rgba(13, 54, 68, 0.5); border: 1px solid var(--linha); transition: border-color 0.4s, opacity 0.9s var(--ease) var(--d, 0ms), transform 1s var(--ease) var(--d, 0ms); }
 .mod:hover { border-color: rgba(208, 168, 84, 0.32); }
-.mod:first-child, .mod:last-child { grid-column: 1 / -1; background: linear-gradient(100deg, rgba(208, 168, 84, 0.12), rgba(13, 54, 68, 0.5) 45%); border-color: var(--linha-latao); }
+.mod:first-child { grid-column: 1 / -1; background: linear-gradient(100deg, rgba(208, 168, 84, 0.12), rgba(13, 54, 68, 0.5) 45%); border-color: var(--linha-latao); }
 .mod__num { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
 .mod__num span { font-size: 11px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--marfim-3); }
 .mod__num b { font-family: var(--titulo); font-weight: 400; font-size: 58px; line-height: 0.9; color: var(--latao); font-variant-numeric: tabular-nums; }
@@ -549,7 +549,7 @@ html.js .oferta__cert.rv:not(.is-in) { transform: translateY(22px) rotate(-1.6de
   .card--c, .card--d, .card--e { grid-column: span 6; }
   .card--e { grid-column: span 12; }
   .modulos { grid-template-columns: 1fr; }
-  .mod:first-child, .mod:last-child { grid-column: auto; }
+  .mod:first-child { grid-column: auto; }
   .passos { grid-template-columns: 1fr; gap: 0; }
   .passos::before, .passos::after { top: 26px; bottom: 60px; left: 25px; right: auto; width: 2px; height: auto; }
   .passos::after { transform-origin: top; transform: scaleY(var(--t, 1)); }

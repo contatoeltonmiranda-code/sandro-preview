@@ -8,14 +8,14 @@
 
 ## O curso
 
-- Formato: 12 módulos e 49 aulas gravadas, ensino progressivo, exemplos com uma empresa fictícia e simulações.
+- Formato: 11 módulos e 41 aulas gravadas, ensino progressivo, exemplos com uma empresa fictícia e simulações.
 - Conteúdo: ambiente de mercado, mercado de ações, dividendos, plataforma de negociação, análise técnica, tributação introdutória, candles e simulação no MetaTrader 5.
 - Acesso por 1 ano na área de membros da Hotmart. Certificado de conclusão. Garantia de 7 dias.
 - Não exige formação na área, patrimônio mínimo nem conta em corretora.
 
 ## Professor
 
-- Sandro Gonçalves: Economia (Unesp), mestrado em Matemática, Estatística e Computação (USP), MBA (Trevisan); experiência na B3 e em banco de investimento internacional; professor de finanças, inclusive em turmas de MBA. As instituições citadas não aprovam nem endossam o curso.
+- Sandro Gonçalves: Economia (Unesp), mestrado em Matemática, Estatística e Computação (USP), MBA (Trevisan); experiência na B3 como analista de modelos e em banco de investimento na Europa como analista sênior de econometria; professor de finanças, inclusive em turmas de MBA. As instituições citadas não têm vínculo com o curso nem o endossam.
 
 ## Avisos
 
