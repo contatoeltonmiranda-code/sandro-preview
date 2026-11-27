@@ -9,7 +9,7 @@
 ## O curso
 
 - Formato: 11 módulos e 41 aulas gravadas, ensino progressivo, exemplos com uma empresa fictícia e simulações.
-- Conteúdo: ambiente de mercado, mercado de ações, dividendos, plataforma de negociação, análise técnica, tributação introdutória, candles e simulação no MetaTrader 5.
+- Conteúdo: ambiente de mercado, mercado de ações, dividendos, plataforma de negociação, análise técnica, tributação introdutória e simulação no MetaTrader 5.
 - Acesso por 1 ano na área de membros da Hotmart. Certificado de conclusão. Garantia de 7 dias.
 - Não exige formação na área, patrimônio mínimo nem conta em corretora.
 
